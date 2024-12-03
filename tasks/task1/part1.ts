@@ -1,4 +1,4 @@
-import { getIds } from "../utils";
+import { getIds } from "./utils";
 
 /**
  * Find the total distance between the two lists of IDs.

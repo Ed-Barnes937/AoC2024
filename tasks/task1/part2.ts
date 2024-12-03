@@ -1,4 +1,4 @@
-import { getIds } from "../utils";
+import { getIds } from "./utils";
 
 /**
  * 1. Get the ids from the input file
